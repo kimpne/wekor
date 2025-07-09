@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/seoul-wedding-fair": "pages/seoul-wedding-fair.js",
+  "/jenju": "pages/jenju.js",
+  "/api/sheet": "pages/api/sheet.js",
+  "/gwangju-wedding-fair": "pages/gwangju-wedding-fair.js",
+  "/ulsan-wedding-fair": "pages/ulsan-wedding-fair.js",
+  "/jeolla-wedding-fair": "pages/jeolla-wedding-fair.js"
+}
